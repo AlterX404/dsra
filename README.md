@@ -1,27 +1,19 @@
-# Duo Studio portfolio
+# Duo Studio website
 
-A responsive, dependency-free portfolio for a two-person freelance studio. The static website is in `index.html`.
+A responsive, dependency-free freelance studio website personalised with Ram Kaushik's profile from his supplied résumé. The friend's name, role, bio, and portrait remain placeholders.
 
-## Preview
-Open `index.html` in a browser or serve the folder containing it with any static web server.
+## Open locally
+Open index.html in your browser. All CSS, JavaScript, and illustrations are inside that one file.
 
-## Personalise before accepting customers
-- Replace Duo Studio, both team names, roles, and placeholder portraits.
-- Replace concept projects with your own work, or retain their concept labels.
-- Update the services, packages, rupee price placeholders, and budget ranges.
-- Replace hello@yourstudio.example with your actual shared business email.
-- Connect the enquiry form to a real contact service. Currently it validates input, previews it, and allows copying only. It does not send or store enquiries.
-- Agree on scope, revision limits, payment terms, ownership, and support. Update the FAQs accordingly.
-- Replace the demo privacy explanation with an accurate privacy notice after configuring services.
+## Current content
+- Ram's name, developer bio, technical skills, four 2026 internships, and education.
+- Direct email and phone links from the supplied résumé.
+- Sample projects clearly labelled as concepts.
+- Placeholder teammate information and package prices.
+- Enquiry preview and copy function. The form does not send messages.
 
-## Included
-Mobile navigation, accessible form labels and validation, project dialogs, package-to-form selection, FAQ accordions, enquiry preview and copy action, reduced-motion support, and responsive styles. No external fonts, analytics, cookies, dependencies, or image requests.
+## Before launching for customers
+Replace the teammate placeholders, confirm your services and pricing, replace concept work when you have portfolio examples, and connect a real enquiry service if you want online form submissions.
 
-## Upload to GitHub
-1. Extract this ZIP.
-2. Open your GitHub repository and choose Add file > Upload files.
-3. Upload index.html and README.md to the repository root, then commit.
-4. To host through GitHub Pages, open Settings > Pages and, if available for your repository, select Deploy from a branch, your default branch, and / (root), then save.
-5. GitHub will show the website address when deployment completes.
-
-You can also upload index.html to any static website host. All styling, scripts, and illustrations are included in the HTML file. No additional asset folders are needed.
+## Upload to GitHub Pages
+Extract the downloadable ZIP. Upload index.html and README.md directly to the repository root. In Settings > Pages, choose Deploy from a branch, select your main branch and / (root), then save. Use the link GitHub displays when deployment completes.
